@@ -1,5 +1,5 @@
 # fish environment variables
-.config/fish/fish_variables
+fish/fish_variables
 
 # graphite credentials
 graphite/
